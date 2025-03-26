@@ -1,0 +1,36 @@
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: orangered;
+    color: dimgrey;
+    text-align: center;
+    padding: 50px 0;
+    height: 100vh;
+}
+h2.form-title {
+    color: darkcyan;
+    font-size: 3rem;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    margin: 0;
+    letter-spacing: 1px;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"],
+input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    margin: 5px 0 15px 0;
+    border: orange;
+    border-radius: 5px;
+    background-color: gray;
+    color: darkcyan;
+    font-size: 1.1rem;
+}
