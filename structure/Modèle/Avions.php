@@ -9,7 +9,6 @@ class avions
     public function setIdavion($idavion){
         $this->idavion = $idavion;
     }
-
     private $typeavion;
     public function getTypeavion(){
         return $this->typeavion;
@@ -17,7 +16,6 @@ class avions
     public function setTypeavion($typeavion){
         $this->typeavion = $typeavion;
     }
-
     private $nbplace;
     public function getNbplace(){
         return $this->nbplace;
@@ -25,7 +23,6 @@ class avions
     public function setNbplace($nbplace){
         $this->nbplace = $nbplace;
     }
-
     private $disponibilite;
     public function getDisponibilite(){
         return $this->disponibilite;

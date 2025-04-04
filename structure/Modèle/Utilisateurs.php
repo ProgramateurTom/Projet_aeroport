@@ -11,7 +11,6 @@ class Utilisateurs
     {
         $this->id_client = $id_client;
     }
-
     private $nom;
     public function getNom()
     {
@@ -21,7 +20,6 @@ class Utilisateurs
     {
         $this->nom = $nom;
     }
-
     private $prenom;
     public function getPrenom()
     {
@@ -31,7 +29,6 @@ class Utilisateurs
     {
         $this->prenom = $prenom;
     }
-
     private $email;
     public function getEmail()
     {
@@ -41,7 +38,6 @@ class Utilisateurs
     {
         $this->email = $email;
     }
-
     private $password;
     public function getPassword()
     {
@@ -51,7 +47,6 @@ class Utilisateurs
     {
         $this->password = $password;
     }
-
     private $adresse;
     public function getAdresse(){
         return $this->adresse;
@@ -59,7 +54,6 @@ class Utilisateurs
     public function setAdresse($adresse){
         $this->adresse = $adresse;
     }
-
     private $dateNaissance;
     public function getDateNaissance(){
         return $this->dateNaissance;

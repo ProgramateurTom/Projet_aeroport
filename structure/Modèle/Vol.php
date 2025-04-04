@@ -1,5 +1,4 @@
 <?php
-
 class vol
 {
     private $idvol;
@@ -10,7 +9,6 @@ class vol
     public function setIdvol($idvol){
         $this->idvol = $idvol;
     }
-
     private $destination;
     public function getDestination(){
         return $this->destination;
@@ -18,7 +16,6 @@ class vol
     public function setDestination($destination){
         $this->destination = $destination;
     }
-
     private $distance;
     public function getDistance(){
         return $this->distance;
@@ -26,7 +23,6 @@ class vol
     public function setDistance($distance){
         $this->distance = $distance;
     }
-
     private $dateDepart;
     public function getDateDepart(){
         return $this->dateDepart;
