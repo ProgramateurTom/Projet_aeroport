@@ -9,12 +9,15 @@
 <h1>Connexion</h1>
 <div class= "form-group">
     <label for= "e-mail"><i class= "zmdi zmdi-email"></i></label>
-    <input type= "email" name= "email" id= "e-mail" placeholder= "Votre Email" required/>
+    <input type= "email" name= "e-mail" id= "e-mail" placeholder= "Votre E-mail" required/>
 </div>
 <div class= "form-group">
     <label for= "Mdp"><i class= "zmdi zmdi-lock"></i></label>
-    <input type= "password" name= "mot_de_passe" id= "Mdp" placeholder= "Votre mot de passe" required/>
+    <input type= "password" name= "Mdp" id= "Mdp" placeholder= "Votre mot de passe" required/>
 </div>
-<input type = "submit" name = "validation">
+<div class="form-group form-button">
+    <input type = "submit" name = "validation">
+</div>
+<a href="Page inscription.html">Je n'ai pas encore voyagé avec vous</a>
 </body>
 </html>
