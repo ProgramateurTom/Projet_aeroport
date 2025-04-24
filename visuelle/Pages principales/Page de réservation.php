@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Réservation - <?php echo htmlspecialchars($film['titre']); ?></title>
+    <title>Réservation - <?php echo htmlspecialchars($vol['titre']); ?></title>
     <link href="../../structure/Fonctionalité/fonct_réservation.php" rel="stylesheet">
 </head>
 <body>
@@ -41,6 +41,12 @@
         <?php endif; ?>
     </form>
 </div>
+
+<a href="Page d'acceuille.php">Je ne veux pas faire de réservations</a>
+
+<a href="Page de modification.php">Je veux faire des modifications sur ce compte</a>
+
+<a href="Page de suppression.php">Je veux supprimer ce compte</a>
 
 </body>
 </html>

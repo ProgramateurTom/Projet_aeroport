@@ -21,5 +21,11 @@
     <input type= "password" name= "mot_de_passe">
     <input type = "submit" name = "validation">
 </form>
+
+<a href="Page d'acceuille.php">Je ne veux pas faire de modifications sur ce compte</a>
+
+<a href="Page de réservation.php">Je veux réserver un vol</a>
+
+<a href="Page de suppression.php">Je veux supprimer ce compte</a>
 </body>
 </html>

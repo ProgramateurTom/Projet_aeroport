@@ -11,5 +11,12 @@
         <button type="submit">Supprimer mon compte</button>
     </form>
 </div>
+
+<a href="Page d'acceuille.php">Je ne veut pas supprimer ce compte</a>
+
+<a href="Page de modification.php">Je veut faire des modifications sur ce compte</a>
+
+<a href="Page de réservation.php">Je veut réservé un vol</a>
+
 </body>
 </html>
