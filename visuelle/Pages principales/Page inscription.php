@@ -35,6 +35,6 @@
 <div class="form-group form-button">
     <input type= "submit" name= "signup" id= "signup" class= "form-submit" value= "S'inscrire"/>
 </div>
-<a href="Page de connexion.html">J'ai déja voyagé avec vous</a>
+<a href="Page de connexion.php">J'ai déja voyagé avec vous</a>
 </body>
 </html>

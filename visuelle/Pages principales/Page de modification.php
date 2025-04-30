@@ -10,7 +10,7 @@
 <h1>Modification du compte</h1>
 <hr>
 
-<form action="Page de modification.html" method="post">
+<form action="Page de modification.php" method="post">
     <p>Modifier le nom :</p>
     <input type= "text" name= "nom">
     <p>Modifier le prenom :</p>

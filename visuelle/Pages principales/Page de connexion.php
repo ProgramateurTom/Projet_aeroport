@@ -18,6 +18,6 @@
 <div class="form-group form-button">
     <input type = "submit" name = "validation">
 </div>
-<a href="Page inscription.html">Je n'ai pas encore voyagé avec vous</a>
+<a href="Page inscription.php">Je n'ai pas encore voyagé avec vous</a>
 </body>
 </html>
