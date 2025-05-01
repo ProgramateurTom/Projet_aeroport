@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Modification</title>
     <link href="../../structure/Fonctionalité/fonct_modification.php">
+    <link href="../Pages css/Css principale.css">
 </head>
 <body>
 <hr>

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Inscription</title>
     <link href="../../structure/Fonctionalité/fonct_inscription.php">
+    <link href="../Pages css/Css principale.css">
 </head>
 <body>
 <h1>Inscription</h1>

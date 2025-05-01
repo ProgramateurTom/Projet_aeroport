@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Suppression de compte</title>
+    <link href="../Pages css/Css principale.css">
 </head>
 <body>
 <div class="container">

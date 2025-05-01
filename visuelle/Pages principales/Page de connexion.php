@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Connexion</title>
     <link href="../../structure/Fonctionalité/fonct_connexion.php">
+    <link href="../Pages css/Css principale.css">
 </head>
 <body>
 <h1>Connexion</h1>
