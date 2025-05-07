@@ -1,6 +1,6 @@
 <?php
 require_once '../bdd/a__roport.sql';
-require_once '../../visuelle/Pages principales/Page de réservation.php';
+require_once '../../visuelle/Pages_principales/Page_de_réservation.php';
 
 if(empty($_POST["ref_client"]) || empty($_POST["ref_vol"])){
     echo "C'est pas bien ...";
@@ -15,8 +15,8 @@ if(empty($_POST["ref_client"]) || empty($_POST["ref_vol"])){
     // Appel de la méthode d'ajout de réservation
     $resultat = $reservationRepository->ajouterReservation($reservation);
     if($resultat){
-        header("Location: ../../visuelle/Pages principales/Page d'accueil.php");
+        header("Location: ../../visuelle/Pages_principales/Page d'accueil.php");
     }else{
-        header("Location: ../../visuelle/Pages principales/Page de réservation.php");
+        header("Location: ../../visuelle/Pages_principales/Page_de_réservation.php");
     }
 }

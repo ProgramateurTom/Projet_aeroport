@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>Inscription</title>
     <link href="../../structure/Fonctionalité/fonct_inscription.php">
-    <link href="../Pages css/Css principale.css">
 </head>
 <body>
 <h1>Inscription</h1>
@@ -36,6 +35,6 @@
 <div class="form-group form-button">
     <input type= "submit" name= "signup" id= "signup" class= "form-submit" value= "S'inscrire"/>
 </div>
-<a href="Page de connexion.php">J'ai déja voyagé avec vous</a>
+<a href="Page_de_connexion.php">J'ai déja voyagé avec vous</a>
 </body>
 </html>

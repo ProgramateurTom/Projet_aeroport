@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Suppression de compte</title>
-    <link href="../Pages css/Css principale.css">
+    <link rel="stylesheet" href="../Pages_css/Css_principale.css">
 </head>
 <body>
 <div class="container">
@@ -13,11 +13,11 @@
     </form>
 </div>
 
-<a href="Page d'acceuille.php">Je ne veut pas supprimer ce compte</a>
+<a href="Page_d'acceuille.php">Je ne veut pas supprimer ce compte</a>
 
-<a href="Page de modification.php">Je veut faire des modifications sur ce compte</a>
+<a href="Page_de_modification.php">Je veut faire des modifications sur ce compte</a>
 
-<a href="Page de réservation.php">Je veut réservé un vol</a>
+<a href="Page_de_réservation.php">Je veut réservé un vol</a>
 
 </body>
 </html>

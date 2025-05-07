@@ -1,11 +1,11 @@
 <?php
 require_once '../bdd/a__roport.sql';
-require_once '../../visuelle/Pages principales/Page de modification.html';
+require_once '../../visuelle/Pages_principales/Page de modification.html';
 
 if(empty($_POST["nom"]) ||
     empty($_POST["prenom"]) ||
     empty($_POST["mot_de_passe"]))
-{header("Location: ../../visuelle/Page principales/Page de modification.php");}
+{header("Location: ../../visuelle/Page principales/Page_de_modification.php");}
 
 else{
     $utilisateurs = new Utilisateurs();

@@ -1,7 +1,7 @@
 <?php
 require_once '../bdd/a__roport.sql';
 require_once '../Modèle/Utilisateurs.php';
-require_once '../../visuelle/Pages principales/Page inscription.php';
+require_once '../../visuelle/Pages_principales/Page_inscription.php';
 
 if (empty($_POST["Nom"]) || empty($_POST["Prenom"]) || empty($_POST["e-mail"]) || empty($_POST["Mdp"]) || empty($_POST["Ville de résidence"]) || empty($_POST["Date de naissance"])) {
     echo "C'est pas bien ...";

@@ -1,3 +1,3 @@
 <?php
-header("Location:visuelle/Pages principales/Page inscription.php");
+header("Location:visuelle/Pages_principales/Page_inscription.php");
 ?>

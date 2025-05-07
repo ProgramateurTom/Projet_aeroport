@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Connexion</title>
     <link href="../../structure/Fonctionalité/fonct_connexion.php">
-    <link href="../Pages css/Css principale.css">
+    <link rel="stylesheet" href="../Pages_css/Css_principale.css">
 </head>
 <body>
 <h1>Connexion</h1>
@@ -19,6 +19,6 @@
 <div class="form-group form-button">
     <input type = "submit" name = "validation">
 </div>
-<a href="Page inscription.php">Je n'ai pas encore voyagé avec vous</a>
+<a href="Page_inscription.php">Je n'ai pas encore voyagé avec vous</a>
 </body>
 </html>

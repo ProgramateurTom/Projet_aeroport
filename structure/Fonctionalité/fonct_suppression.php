@@ -1,6 +1,6 @@
 <?php
 require_once '../bdd/a__roport.sql';
-require_once '../../visuelle/Pages principales/Page de suppression.php';
+require_once '../../visuelle/Pages_principales/Page_de_suppression.php';
 require_once '../Modèle/Utilisateurs.php';
 
 session_start();
