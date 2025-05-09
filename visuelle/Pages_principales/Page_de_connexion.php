@@ -17,7 +17,7 @@
     <input type= "password" name= "Mdp" id= "Mdp" placeholder= "Votre mot de passe" required/>
 </div>
 <div class="form-group form-button">
-    <input type = "submit" name = "validation">
+    <input type ="submit" name ="validation">
 </div>
 <a href="Page_inscription.php">Je n'ai pas encore voyagé avec vous</a>
 </body>

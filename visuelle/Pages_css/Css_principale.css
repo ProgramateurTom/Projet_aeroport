@@ -5,13 +5,13 @@ box-sizing: border-box;
 }
 body {
     font-family: 'Arial', sans-serif;
-    background-color: orangered;
+    background-color: darkgoldenrod;
     text-align: center;
     padding: 50px 0;
     height: 100vh;
 }
 h2.form-title {
-    color: darkcyan;
+    color: steelblue;
     font-size: 3rem;
     position: absolute;
     top: 20px;
@@ -27,9 +27,9 @@ input[type="submit"] {
     width: 100%;
     padding: 12px;
     margin: 5px 0 15px 0;
-    border: orange;
+    border: darkgoldenrod;
     border-radius: 5px;
-    background-color: gray;
-    color: darkcyan;
+    background-color: lightgrey;
+    color: steelblue;
     font-size: 1.1rem;
 }
